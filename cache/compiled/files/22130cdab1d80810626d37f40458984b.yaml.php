@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/flex-objects/blueprints.yaml',
-    'modified' => 1611596550,
+    'modified' => 1611676802,
     'data' => [
         'name' => 'Flex Objects',
         'slug' => 'flex-objects',

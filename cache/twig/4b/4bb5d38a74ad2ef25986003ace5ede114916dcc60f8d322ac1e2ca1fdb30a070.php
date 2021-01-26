@@ -77,6 +77,17 @@ class __TwigTemplate_fcf30a50a43b68534443d0e951a0783c868a210516613c7f690e779ccd9
             ";
             }
             // line 18
+            echo "            ";
+            if ($this->getAttribute($context["specialty"], "link", [])) {
+                // line 19
+                echo "            <a href=\"http://";
+                echo $this->getAttribute($context["specialty"], "link", []);
+                echo "\"<p>";
+                echo $this->getAttribute($context["specialty"], "linktext", []);
+                echo "</p></a>
+            ";
+            }
+            // line 21
             echo "            </div>
         </div>
     ";
@@ -84,7 +95,7 @@ class __TwigTemplate_fcf30a50a43b68534443d0e951a0783c868a210516613c7f690e779ccd9
         $_parent = $context['_parent'];
         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['specialty'], $context['_parent'], $context['loop']);
         $context = array_intersect_key($context, $_parent) + $_parent;
-        // line 21
+        // line 24
         echo "    </div>
 </div>
 ";
@@ -102,7 +113,7 @@ class __TwigTemplate_fcf30a50a43b68534443d0e951a0783c868a210516613c7f690e779ccd9
 
     public function getDebugInfo()
     {
-        return array (  88 => 21,  80 => 18,  74 => 16,  71 => 15,  65 => 13,  62 => 12,  58 => 10,  51 => 7,  49 => 6,  44 => 5,  40 => 4,  35 => 2,  30 => 1,);
+        return array (  99 => 24,  91 => 21,  83 => 19,  80 => 18,  74 => 16,  71 => 15,  65 => 13,  62 => 12,  58 => 10,  51 => 7,  49 => 6,  44 => 5,  40 => 4,  35 => 2,  30 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -131,6 +142,9 @@ class __TwigTemplate_fcf30a50a43b68534443d0e951a0783c868a210516613c7f690e779ccd9
             {% endif %}
             {% if specialty.text %}
             <p>{{ specialty.text }}</p>
+            {% endif %}
+            {% if specialty.link %}
+            <a href=\"http://{{ specialty.link }}\"<p>{{ specialty.linktext }}</p></a>
             {% endif %}
             </div>
         </div>

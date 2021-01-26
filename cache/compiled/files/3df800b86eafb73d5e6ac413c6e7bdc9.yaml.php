@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/lightslider/blueprints.yaml',
-    'modified' => 1497471226,
+    'modified' => 1611691847,
     'data' => [
         'name' => 'LightSlider',
         'version' => '1.5.3',

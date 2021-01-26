@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/featherlight/blueprints.yaml',
-    'modified' => 1566327056,
+    'modified' => 1611676802,
     'data' => [
         'name' => 'Featherlight',
         'version' => '1.5.0',
