@@ -1,8 +1,8 @@
 <div class="modular-row specialties {{ page.header.class}}">
     {{ content }}
     <div class="specialty-items">
-    {% for specialty in page.header.specialtys %}
-           <div class="specialty">
+    {% for specialty in page.header.specialties %}
+           <div class="specialty" style="background-image: {{specialty.image}};">
             {% if specialty.icon %}
             <i class="fa fa-fw fa-{{ specialty.icon }}"></i>
             <div class="specialty-content icon-offset">

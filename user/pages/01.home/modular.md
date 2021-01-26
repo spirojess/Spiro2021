@@ -9,7 +9,7 @@ content:
             - _slider
             - _services
             - _portfolio
-            - _features
+            - _specialties
 body_classes: 'modular header-image fullwidth'
 menu: Home
 recaptchacontact:

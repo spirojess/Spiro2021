@@ -1,5 +1,6 @@
 /* @override 
-	http://localhost:8888/spiro/user/themes/spiro16/css/custom.css?* */
+	http://localhost:8888/spiro/user/themes/spiro16/css/custom.css?*
+	http://localhost:8888/spiro_d/user/themes/spiro16/css/custom.css */
 
 
 
@@ -401,4 +402,24 @@ section#portfolio.archives {
 	}
 }
 
+
+.specialties .specialty-items .specialty {
+	width: 48%;
+	display: inline-block;
+	padding: 12px;
+	background-color: #ffffff;
+}
+
+#body div.modular-row.specialties div.specialty-items div.specialty div.specialty-content p {
+	padding-bottom: 122px;
+}
+
+div.modular-row.specialties {
+	background-color: #efefef;
+	padding-bottom: 66px;
+}
+
+#body div.modular-row.specialties > h4 {
+	text-align: center;
+}
 
