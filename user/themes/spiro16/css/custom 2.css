@@ -1,0 +1,295 @@
+/* @override http://localhost:8888/sg16/user/themes/spiro16/css/custom.css
+	http://testing.spirographics.com/spiro16_comp1/user/themes/spiro16/css/custom.css
+	http://testing.spirographics.com/spiro16_comp1/user/themes/spiro16/css/custom.css?g-aa3dad00 */
+
+/* @override 
+	http://localhost:8888/sg16/user/themes/spiro16/css/custom.css */
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0.85rem 0 1.0rem;
+	text-rendering: optimizeLegibility;
+	letter-spacing: normal;
+}
+
+.modular-row h3{
+	line-height: 1.1em;
+}	
+.text-center {
+	text-align: center;
+}
+	
+#body{
+		margin-top: 0;
+		padding-top: 0;
+	}
+	
+	#top header#header  {
+		background-color: rgba(76, 76, 76, 0.41);
+	color: gray;
+	z-index: 99;
+}
+
+
+#services div.row.text-center div.feature.four-x h4.service-heading {
+	line-height: 1em;
+}
+
+
+/* TRY TO OVERIDDE with the SASS --------*/
+a {
+  color: #157cfe; }
+  a:hover {
+    color: #0e6e90; }
+    
+#header.scrolled #navbar a {
+      color: #0e6e90 !important; }
+#header.scrolled #navbar a:hover {
+        color: rgba(14, 110, 144, 0.54) !important; }
+#header.scrolled #navbar a:before, #header.scrolled #navbar a:after {
+      background-color: #0e6e90 !important; }
+
+.modular .features .feature i.fa {
+  font-size: 2rem;
+  color: #0e6e90; }
+  
+  .button {
+    background: #fff;
+    color: #0e6e90;
+    border: 1px solid #0e6e90;
+    border-radius: 3px; }
+    .button:hover {
+      background: #0e6e90;
+      color: #fff; }
+    .button:active {
+      box-shadow: 0 1px 0 #118ab5; }
+  
+/* ----------------------------- */
+        
+	
+.texture{
+	background-image: url(../images/textr_gray.png);
+}	
+section h2:first-of-type{
+	text-align: center;
+}
+
+#body div.modular-row {
+	padding-top: 62px;
+}
+
+
+
+.modular .hireus {
+  padding: 6rem;
+ }
+ 
+ #contact div.modular-row.hireus.texture form {
+ 	max-width: 600px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	padding: 33px;
+ 	background-color: silver;
+ 	border-radius: 15px;
+ 	moz-border-radius: 15px
+ }
+ 
+ 
+ .g-recaptcha {
+ 	margin-bottom: 16px;
+ }
+ 
+ 
+ /* @group HEADER--------- */
+ 
+ #header #logo h3 {
+ 	line-height: 2rem;
+   margin: 0;
+   text-transform: none;
+ 	font-size: 1.5rem;
+ }
+   #header #logo h3 a {
+     color: #444; }
+     
+     
+  	 header ul.navigation li a.active, header ul.navigation li a:after {
+ 		display: none;
+  	 }
+     
+     header.scrolled ul.navigation li a.active, header.scrolled ul.navigation li a:after {
+ 		display: inline;
+ 	}
+ 
+ /* @end */
+ 
+ /* @group --Slider------- */
+	
+	.grav-lightslider .panel-padding h1, .grav-lightslider .panel-padding h2 {
+		color: gray;
+		letter-spacing: normal;
+	}
+	
+	/*.grav-lightslider div.light1 h1, .grav-lightslider div.light1 h2 {
+		color: #ffffff;
+		text-shadow: 0 0 0;
+	}
+	*/
+	
+	li.lslide div.panel-bg div.panel-padding  ul {
+		right: 5%;
+		position: absolute;
+		width: 40%;
+		font-size: 3em;
+		top: 20%;
+		font-weight: 400;
+		color: white;
+		text-align: right;
+	}
+		
+	li.lslide div.panel-padding  h1 {
+			position: absolute;
+			left: 0;
+			color: white;
+			text-align: right;
+			font-size: 200px;
+			line-height: 1px;
+			height: 50px;
+			bottom: 0;
+		}
+
+li.lslide div.panel-padding  h1 del{
+	text-decoration: none;
+	color: rgba(46, 46, 46, 0.09);
+	font-family: Raleway, Helvetica, Tahoma, Geneva, Arial, sans-serif;
+}
+
+	
+	li.lslide  {
+			overflow: hidden;
+		}
+	
+	/* @end */
+	
+	div.panel-bg {
+		
+	}
+	
+	/* @group Portfolio */
+
+.portfolio-item {
+	width: 33%;
+	display: inline-block;
+	padding: 8px;
+	text-align: center;
+	vertical-align: top;
+	height: 100%;
+	margin-bottom: 16px;
+}
+
+div.portfolio-caption h4 {
+	margin-bottom: 6px;
+	line-height: 1.2em;
+	margin-top: 6px;
+}
+
+div.portfolio-caption p.text-muted {
+	margin-top: 6px;
+	margin-bottom: 12px;
+}
+
+/*
+ div.row.text-center > div:nth-child(2) > span > i.fa.fa-circle.fa-stack-2x.text-primary{
+	line-height: 120px;
+ 	width: auto;
+ 	height: auto;
+ 	font-size: 120px;
+ 	text-align: center;
+ }*/
+
+
+div.row.four-x div.feature span.fa-stack.fa-4x i.fa {
+	font-size: 120px;
+	line-height: 100px;
+}
+
+div.row.four-x div.feature span.fa-stack.fa-4x i.fa.fa-stack-1x.fa-inverse{
+ 	color: white;
+ 	font-size: 70px;
+ 	line-height: 100px;
+ 	
+}
+	
+div.row div.feature.four-x {
+	max-width: 24%;
+	display: inline-block;
+	vertical-align: top;
+	padding-right: 12px;
+	padding-left: 12px;
+}
+	
+	/* @group Featherlight - modal */
+	
+	.featherlight .featherlight-inner {
+		text-align: center;
+	}
+	
+	.featherlight .featherlight-inner ul li {
+		list-style: none;	
+		display: inline-block;
+		margin: 0 22px 0 0;
+		font-size: .9em;
+	}
+	.featherlight .featherlight-inner ul {
+		padding: 0;
+	}
+	
+	/* @end */
+	
+	/* @end */
+
+
+@media only all and (max-width:767px) {
+.portfolio-item {
+	width: 48%;
+}
+
+
+div.row div.feature.four-x {
+	max-width: 48%;
+
+}
+
+	li.lslide div.panel-padding  h1 {
+	font-size: 6em;
+	line-height: 0;
+	height: 16px;
+	
+}
+
+#contact div.modular-row.hireus.texture h2 {
+	margin-top: 0;
+}
+}
+
+@media only all and (min-width:768px) {
+	.modular-row, .row.text-center {
+		padding-right: 10%;
+		padding-left: 10%;
+	}
+}
+
+div.panel-bg {
+max-height: 800px;
+	
+}
+
+
+header#header {
+	top: 0;
+}
+
+#body .thanks{
+	margin-bottom: 0;
+	text-align: center;
+	top: 100px;
+	position: relative;
+}

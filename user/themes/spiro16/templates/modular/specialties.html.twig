@@ -1,0 +1,22 @@
+<div class="modular-row specialties {{ page.header.class}}">
+    {{ content }}
+    <div class="specialty-items">
+    {% for specialty in page.header.specialtys %}
+           <div class="specialty">
+            {% if specialty.icon %}
+            <i class="fa fa-fw fa-{{ specialty.icon }}"></i>
+            <div class="specialty-content icon-offset">
+            {% else %}
+            <div class="specialty-content">
+            {% endif %}
+            {% if specialty.header %}
+            <h4>{{ specialty.header }}</h4>
+            {% endif %}
+            {% if specialty.text %}
+            <p>{{ specialty.text }}</p>
+            {% endif %}
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+</div>

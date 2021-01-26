@@ -1,0 +1,39 @@
+<section id="portfolio" class="archives">
+    <div class="modular-row  {{ page.header.class}}">
+        <div class="text-center">
+          <h2>{{ page.title }}</h2>
+            {{ content }}
+        </div>
+    </div>
+    <div class="row">
+    {% for image in page.media.images %}
+            <div class="portfolio-item">
+                <a href="#" data-featherlight="<div class='modal-body'>
+                            <h2>{{ image.meta.title }}</h2>
+                            <hr class='star-primary'>
+                            <img src='{{ image.url }}' class='img-responsive img-centered' alt='{{ image.meta.alt }}'>
+                            <p>{{ image.meta.description }}</p>
+                            <ul class='list-inline item-details'>
+                                <li>Client:
+                                  {% if image.meta.link == "" %}
+                                  <strong>{{ image.meta.client }}</strong>
+                                  {% else %}
+                                    <strong><a href='http://{{image.meta.link}}' target='_blank'>{{ image.meta.client }}</a> </strong>
+                                  {% endif %}
+                                </li>
+                                <li>Service:
+                                    <strong>{{ image.meta.category }}
+                                    </strong>
+                                </li>
+                            </ul>
+                        </div>  ">
+      <img src="{{image.cropResize(300,200).url}}" alt="{{ image.meta.alt }}"></a>
+                <div class="portfolio-caption">
+                    <h4>{{ image.meta.title }}</h4>
+                    <p class="text-muted">{{ image.meta.subtitle }}</p>
+                </div>
+            </div>
+
+        {% endfor %}
+    </div>
+</section>

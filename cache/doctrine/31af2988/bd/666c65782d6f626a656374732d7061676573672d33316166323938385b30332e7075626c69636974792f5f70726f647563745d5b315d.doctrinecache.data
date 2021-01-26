@@ -1,0 +1,2 @@
+1611633710
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:18:"publicity/_product";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:19:"Product Development";s:4:"menu";s:7:"Product";}s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:18:"publicity/_product";s:11:"storage_key";s:21:"03.publicity/_product";s:8:"template";s:7:"gallery";s:17:"storage_timestamp";i:1611627194;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"gallery";i:1579704522;}}s:8:"checksum";s:32:"baea88020c284a747221e36e48b5e73b";}}

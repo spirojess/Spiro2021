@@ -1,0 +1,26 @@
+enabled: true
+backup:
+  testmode:
+    enabled: false
+    compressionratio: 1.2
+  phptimeout: 600
+  storage:
+    maxspace: 10
+    keepdays: 10
+    showbackups: 50
+  log: true
+  ignore:
+    foldercase: true
+    toplevelintersect: true
+    folders:
+      - testing
+      - old_portfolio
+      - dev
+      - guyspiro
+    foldersintersect: false
+    forceaddasempty: false
+    toplevelfolders:
+      - testing
+      - old-portfolio
+      - spirographics.com
+      - uploads_fromsite

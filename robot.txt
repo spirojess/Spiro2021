@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /testing
+Disallow: /dev
+Disallow: /old_portfolio

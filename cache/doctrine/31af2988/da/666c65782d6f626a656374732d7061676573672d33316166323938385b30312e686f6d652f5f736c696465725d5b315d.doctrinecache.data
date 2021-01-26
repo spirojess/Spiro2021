@@ -1,0 +1,10 @@
+1611633710
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:12:"home/_slider";s:8:"elements";a:3:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:6:"Slider";s:4:"menu";s:3:"Top";s:11:"lightslider";a:10:{s:11:"slider_type";s:4:"text";s:26:"type_text_vertical_padding";s:4:"30%;";s:28:"type_text_horizontal_padding";s:4:"39%;";s:20:"type_text_brightness";i:5;s:4:"mode";s:4:"fade";s:5:"pager";s:5:"false";s:8:"controls";s:5:"false";s:8:"keyPress";s:4:"true";s:5:"pause";i:4500;s:5:"speed";i:1000;}}s:8:"markdown";s:142:">  t**Web**IdentityPrintWebIdentityPrint
+
+---
+>  ty**Print**WebIdentityPrintWebIdentity
+
+---
+>  **Identity**PrintWebIdentityPrintWebIdentity
+
+";}s:7:"storage";a:6:{s:3:"key";s:12:"home/_slider";s:11:"storage_key";s:15:"01.home/_slider";s:8:"template";s:11:"lightslider";s:17:"storage_timestamp";i:1611627194;s:8:"markdown";a:1:{s:0:"";a:1:{s:11:"lightslider";i:1579704728;}}s:8:"checksum";s:32:"7563db9c1c40b54a54dea917803c9663";}}

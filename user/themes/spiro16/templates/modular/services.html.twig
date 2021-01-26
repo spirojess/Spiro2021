@@ -1,0 +1,23 @@
+<section id="services">
+    <div class="modular-row {{ page.header.class}}">
+            {{ content }}
+    </div>
+    <div class="row text-center">
+        {% for service in page.header.services %}
+           <div class="feature four-x">
+                {% if service.icon %}
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-{{ service.icon }} fa-stack-1x fa-inverse"></i>
+                    </span>
+                {% endif %}
+                {% if service.header %}
+                    <h4 class="service-heading">{{ service.header }}</h4>
+                {% endif %}
+                {% if service.text %}
+                    <p class="text-muted">{{ service.text }}</p>
+                {% endif %}
+            </div>
+        {% endfor %}
+    </div>
+</section>

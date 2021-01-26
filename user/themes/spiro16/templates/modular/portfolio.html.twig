@@ -1,0 +1,40 @@
+<section id="portfolio" class="texture">
+    <div class="modular-row  {{ page.header.class}}">
+        <div class="text-center">
+            {{ content }}
+        </div>
+    </div>
+    <div class="row">
+        {% for portfolio in page.header.portfolios %}
+            <div class="portfolio-item">
+  <a href="#" data-featherlight="<div class='modal-body'>
+                            <h2>{{ portfolio.title }}</h2>
+                            <hr class='star-primary'>
+                            <img src='{{ page.media[portfolio.img].url }}' class='img-responsive img-centered' alt='{{ portfolio.alt }}'>
+                            <p>{{ portfolio.description }}</p>
+                            <ul class='list-inline item-details'>
+                                <li>Client:
+                                    {% if portfolio.live == "" %}<strong>{{ portfolio.client }}</strong>
+                                    {% else %}<strong><a href='http://{{portfolio.live}}' target='_blank'>{{ portfolio.client }}</a></strong>
+                                    {% endif %}
+                                </li>
+                               {# <li>Date:
+                                    <strong>{{ portfolio.projectdate }}
+                                    </strong>
+                                </li>  #}
+                                <li>Service:
+                                    <strong>{{ portfolio.category }}
+                                    </strong>
+                                </li>
+                            </ul>
+                        </div>  ">
+      <img src="{{page.media[portfolio.thumbnail].url}}" alt="{{ image.meta.alt }}"'></a>
+                <div class="portfolio-caption">
+                    <h4>{{ portfolio.title }}</h4>
+                    <p class="text-muted">{{ portfolio.subtitle }}</p>
+                </div>
+            </div>
+
+        {% endfor %}
+    </div>
+</section>

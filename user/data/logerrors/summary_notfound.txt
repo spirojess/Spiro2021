@@ -1,0 +1,1653 @@
+-
+    url: 'http://spirographics.com/administrator/index.php'
+    count: 5902
+-
+    url: 'http://www.spirographics.com/assets/'
+    count: 91
+-
+    url: 'http://www.spirographics.com/testing/factory/event/franklin-farmers-market/'
+    count: 43
+-
+    url: 'http://www.spirographics.com/testing/factory/event/music-city-roots-live-at-the-factory/'
+    count: 41
+-
+    url: 'http://spirographics.com/favicon.ico'
+    count: 34
+-
+    url: 'http://spirographics.com/images/e/f/8/4/9/ef849b34d2501df00e81044bcd525a4b7db119fb-pstorysongthumbnail.jpeg'
+    count: 32
+-
+    url: 'http://spirographics.com/images/3/f/d/8/9/3fd890de5fc2420c1ed6d53f345b8079fea70740-ptnball.jpeg'
+    count: 29
+-
+    url: 'http://spirographics.com/images/6/9/9/4/d/6994dd11f0def2a972766dc2178b090c074dc827-ppdbooksthumbnail.jpeg'
+    count: 29
+-
+    url: 'http://spirographics.com/images/8/d/e/b/1/8deb14db7f51f9aef2a3e7dc9d7d1a754d21db29-pstorysong.jpeg'
+    count: 29
+-
+    url: 'http://spirographics.com/images/b/1/8/4/2/b18424ade5ddbc0404077f4192e61648e6cb6766-image-3.jpeg'
+    count: 29
+-
+    url: 'http://spirographics.com/images/e/7/b/6/d/e7b6dbca35f7ce8691228c567f1f655bab34bb1a-pfarfur.jpeg'
+    count: 29
+-
+    url: 'http://spirographics.com/images/e/9/e/e/9/e9ee9ae289e54a93b837441d03c93907054d1c21-pgalileo.jpeg'
+    count: 29
+-
+    url: 'http://spirographics.com/images/f/6/2/1/8/f62187ed7cf14284f155617cdc8112481fe00545-pgalileothumbnail.jpeg'
+    count: 29
+-
+    url: 'http://spirographics.com/images/5/d/4/2/7/5d4277abfe483a18fc172b739db001a3afb28db7-ptnballthumbnail.jpeg'
+    count: 28
+-
+    url: 'http://spirographics.com/images/a/1/8/7/1/a1871047125b687635e8b69040a3cc064f28891d-pfactorythumbnail.jpeg'
+    count: 28
+-
+    url: 'http://spirographics.com/images/0/1/5/d/7/015d7dc06a3964aef4454d27fbc632a95e733217-image-2.jpeg'
+    count: 27
+-
+    url: 'http://spirographics.com/images/c/f/5/e/b/cf5ebb06fe9cb29934cfe31b2456aebe007f1b79-image-1.jpeg'
+    count: 27
+-
+    url: 'http://spirographics.com/images/5/7/a/5/9/57a599fd59f4eaa1e7bb5b14163eb32c7e3b6af6-ppdbk.jpeg'
+    count: 26
+-
+    url: 'http://spirographics.com/images/d/7/1/1/e/d711eb0b1cd072ff552867bc930add7c007f42d6-pfactory.jpeg'
+    count: 26
+-
+    url: 'http://www.spirographics.com/lightbox/capital/favicon.ico'
+    count: 26
+-
+    url: 'http://spirographics.com/libraries/joomla/exporter.php'
+    count: 25
+-
+    url: 'http://www.spirographics.com/contact-us'
+    count: 24
+-
+    url: 'http://www.spirographics.com/testing/unico'
+    count: 17
+-
+    url: 'http://www.spirographics.com/testing/music_g5/login'
+    count: 14
+-
+    url: 'http://www.spirographics.com/robots'
+    count: 13
+-
+    url: 'http://spirographics.com/our-work/web'
+    count: 11
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding'
+    count: 11
+-
+    url: 'http://www.spirographics.com/our-work/print'
+    count: 11
+-
+    url: 'http://spirographics.com/administrator'
+    count: 10
+-
+    url: 'http://spirographics.com/index.php'
+    count: 10
+-
+    url: 'http://spirographics.com/testing/thinkbig/category/services/page/2'
+    count: 10
+-
+    url: 'http://www.spirographics.com/administrator/index.php'
+    count: 10
+-
+    url: 'http://www.spirographics.com/our-work'
+    count: 10
+-
+    url: 'http://www.spirographics.com/our-work/web'
+    count: 10
+-
+    url: 'http://spirographics.com/contact-us'
+    count: 9
+-
+    url: 'http://spirographics.com/testing/thinkbig/category/team/page/2'
+    count: 9
+-
+    url: 'http://spirographics.com/wp-login.php'
+    count: 9
+-
+    url: 'http://www.spirographics.com/apple-touch-icon-precomposed.png'
+    count: 9
+-
+    url: 'http://www.spirographics.com/apple-touch-icon.png'
+    count: 9
+-
+    url: 'http://spirographics.com/our-work/print'
+    count: 8
+-
+    url: 'http://spirographics.com/testing/thinkbig/blog-2/page/5'
+    count: 8
+-
+    url: 'http://spirographics.com/testing/thinkbig/blog-2/page/6'
+    count: 8
+-
+    url: 'http://spirographics.com/our-work'
+    count: 7
+-
+    url: 'http://spirographics.com/our-work/identity-branding'
+    count: 7
+-
+    url: 'http://spirographics.com/testing/storysong15/product/orphan-song-cd'
+    count: 7
+-
+    url: 'http://spirographics.com/testing/thinkbig/comments/feed'
+    count: 7
+-
+    url: 'http://www.spirographics.com/contact-us/1-main-office-general-inquiries'
+    count: 7
+-
+    url: 'http://www.spirographics.com/index.php'
+    count: 7
+-
+    url: 'http://spirographics.com/component/content/featured'
+    count: 6
+-
+    url: 'http://spirographics.com/our-work/identity-branding/19-dress-for-success-nashville-logo'
+    count: 6
+-
+    url: 'http://spirographics.com/our-work/identity-branding/26-auto-generate-from-title'
+    count: 6
+-
+    url: 'http://spirographics.com/testing/storysong15/larry-warren'
+    count: 6
+-
+    url: 'http://spirographics.com/testing/storysong15/store/'
+    count: 6
+-
+    url: 'http://www.spirographics.com/contact-us/1'
+    count: 6
+-
+    url: 'http://www.spirographics.com/testing/factory'
+    count: 6
+-
+    url: 'http://spirographics.com/mail'
+    count: 5
+-
+    url: 'http://spirographics.com/our-work/print/3-spring-break'
+    count: 5
+-
+    url: 'http://spirographics.com/our-work/print/7-stories-that-command-attention'
+    count: 5
+-
+    url: 'http://spirographics.com/our-work/web/24-music-llc-website-development'
+    count: 5
+-
+    url: 'http://spirographics.com/testing/storysong15/category/board-of-directors'
+    count: 5
+-
+    url: 'http://spirographics.com/testing/storysong15/category/staff'
+    count: 5
+-
+    url: 'http://spirographics.com/testing/storysong15/product/storysong-volume-1-cd'
+    count: 5
+-
+    url: 'http://spirographics.com/testing/storysong15/ruthy-and-ricardo-pena'
+    count: 5
+-
+    url: 'http://spirographics.com/testing/thinkbig/patio-mason'
+    count: 5
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding/29-galileo-agency-logo'
+    count: 5
+-
+    url: 'http://www.spirographics.com/our-work/print/10-the-big-thing-next-big-thing'
+    count: 5
+-
+    url: 'http://www.spirographics.com/our-work/print/2-fuel'
+    count: 5
+-
+    url: 'http://www.spirographics.com/our-work/print/3-spring-break'
+    count: 5
+-
+    url: 'http://www.spirographics.com/our-work/print/32-yolanda-adams'
+    count: 5
+-
+    url: 'http://www.spirographics.com/our-work/print/7-stories-that-command-attention'
+    count: 5
+-
+    url: 'http://www.spirographics.com/our-work/web/12-kent-climbing'
+    count: 5
+-
+    url: 'http://www.spirographics.com/our-work/web/14-franklin-tea-website-design'
+    count: 5
+-
+    url: 'http://www.spirographics.com/our-work/web/24-music-llc-website-development'
+    count: 5
+-
+    url: 'http://www.spirographics.com/testing/factory/book-an-event'
+    count: 5
+-
+    url: 'http://www.spirographics.com/testing/factory/event/227/'
+    count: 5
+-
+    url: 'http://www.spirographics.com/testing/factory/journey-church-franklin'
+    count: 5
+-
+    url: 'http://www.spirographics.com/testing/factory/restaurants'
+    count: 5
+-
+    url: 'http://www.spirographics.com/wp-login.php'
+    count: 5
+-
+    url: 'http://spirographics.com/contact-us/1'
+    count: 4
+-
+    url: 'http://spirographics.com/contact-us/1-main-office-general-inquiries'
+    count: 4
+-
+    url: 'http://spirographics.com/our-work/identity-branding/29-galileo-agency-logo'
+    count: 4
+-
+    url: 'http://spirographics.com/our-work/print/32-yolanda-adams'
+    count: 4
+-
+    url: 'http://spirographics.com/our-work/web/14-franklin-tea-website-design'
+    count: 4
+-
+    url: 'http://spirographics.com/our-work/web/22-capital-recycling-website-development'
+    count: 4
+-
+    url: 'http://spirographics.com/our-work/web/33-mathis'
+    count: 4
+-
+    url: 'http://spirographics.com/testing/storysong15/bob-dyar'
+    count: 4
+-
+    url: 'http://spirographics.com/testing/storysong15/harriet-lihanda'
+    count: 4
+-
+    url: 'http://spirographics.com/testing/storysong15/product/mark-wagner-the-first-decade-cd'
+    count: 4
+-
+    url: 'http://spirographics.com/testing/storysong15/rose-wangoi'
+    count: 4
+-
+    url: 'http://spirographics.com/testing/storysong15/store'
+    count: 4
+-
+    url: 'http://spirographics.com/testing/thinkbig/feed'
+    count: 4
+-
+    url: 'http://www.spirographics.com/assets/d9e6e02c6c2311f97ea63e4a95d62e0d.css'
+    count: 4
+-
+    url: 'http://www.spirographics.com/favicon.ico'
+    count: 4
+-
+    url: 'http://www.spirographics.com/hh'
+    count: 4
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding/9-allied-insurance-logo'
+    count: 4
+-
+    url: 'http://www.spirographics.com/our-work/print/6-ypp-promotion'
+    count: 4
+-
+    url: 'http://www.spirographics.com/our-work/print/8-garkinhall-systems-brochure'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/c-moon-law-creative-legal-counsel'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/contact'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/event/221'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/event/221/'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/event/franklin-farmers-market'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/financial-marketing-solutions'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/history'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/show-hope'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/venues/farmers-market-shed'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/venues/jamison-hall'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/venues/liberty-hall'
+    count: 4
+-
+    url: 'http://www.spirographics.com/testing/factory/venues/the-courtyard-behind-jamison-hall'
+    count: 4
+-
+    url: 'http://spirographics.com/admin.php'
+    count: 3
+-
+    url: 'http://spirographics.com/our-work/identity-branding/16-mercy-children-s-clinic-logo'
+    count: 3
+-
+    url: 'http://spirographics.com/our-work/identity-branding/17-archive-management-systems-logo'
+    count: 3
+-
+    url: 'http://spirographics.com/our-work/identity-branding/18-praisehymn-music-group-logo'
+    count: 3
+-
+    url: 'http://spirographics.com/our-work/identity-branding/20-hero-identity'
+    count: 3
+-
+    url: 'http://spirographics.com/our-work/identity-branding/5-advanced-molding-technologies'
+    count: 3
+-
+    url: 'http://spirographics.com/our-work/print/6-ypp-promotion'
+    count: 3
+-
+    url: 'http://spirographics.com/our-work/print/8-garkinhall-systems-brochure'
+    count: 3
+-
+    url: 'http://spirographics.com/our-work/web/12-kent-climbing'
+    count: 3
+-
+    url: 'http://spirographics.com/our-work/web/23-kennedy-cookbook-website-development'
+    count: 3
+-
+    url: 'http://spirographics.com/sitemap'
+    count: 3
+-
+    url: 'http://spirographics.com/testing/storysong15/glenn-wilson'
+    count: 3
+-
+    url: 'http://spirographics.com/testing/storysong15/product/purple-t-shirt'
+    count: 3
+-
+    url: 'http://spirographics.com/testing/thinkbig/patio-showcase'
+    count: 3
+-
+    url: 'http://www.spirographics.com/+c/f+'
+    count: 3
+-
+    url: 'http://www.spirographics.com/+d/f+'
+    count: 3
+-
+    url: 'http://www.spirographics.com/2-uncategorised/13-spirographics'
+    count: 3
+-
+    url: 'http://www.spirographics.com/2-uncategorised/31-manypaws'
+    count: 3
+-
+    url: 'http://www.spirographics.com/assets/+c/f+'
+    count: 3
+-
+    url: 'http://www.spirographics.com/component/content/featured'
+    count: 3
+-
+    url: 'http://www.spirographics.com/component/tags/tag/5'
+    count: 3
+-
+    url: 'http://www.spirographics.com/images/gal_webcomps1.jpg'
+    count: 3
+-
+    url: 'http://www.spirographics.com/images/l_galileo.png'
+    count: 3
+-
+    url: 'http://www.spirographics.com/images/portfolio/w_theword.jpg'
+    count: 3
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding/17-archive-management-systems-logo'
+    count: 3
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding/18-praisehymn-music-group-logo'
+    count: 3
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding/19-dress-for-success-nashville-logo'
+    count: 3
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding/21-legend-entertainment-logo'
+    count: 3
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding/26-auto-generate-from-title'
+    count: 3
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding/27-burnt-water-usa-identity'
+    count: 3
+-
+    url: 'http://www.spirographics.com/our-work/web/33-mathis'
+    count: 3
+-
+    url: 'http://www.spirographics.com/plus/mytag_js.php'
+    count: 3
+-
+    url: 'http://www.spirographics.com/tags-merch'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/72'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/caddis-interactive'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~week/request_format~html'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/category/blog'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/directions'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/directory'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/event/227'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/event/music-city-roots-live-at-the-factory'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/event/the-cash-legacy-a-musical-tribute-to-the-man-in-black'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/merchants'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/shopping'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/venues'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/venues/commons-area'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/venues/the-heritage-room'
+    count: 3
+-
+    url: 'http://www.spirographics.com/testing/factory/venues/the-vip-lounge'
+    count: 3
+-
+    url: 'http://spirographics.com/2-uncategorised/13-spirographics'
+    count: 2
+-
+    url: 'http://spirographics.com/about-us/13-spirographics'
+    count: 2
+-
+    url: 'http://spirographics.com/apple-touch-icon.png'
+    count: 2
+-
+    url: 'http://spirographics.com/bugger'
+    count: 2
+-
+    url: 'http://spirographics.com/component/users/'
+    count: 2
+-
+    url: 'http://spirographics.com/components/com_roksprocket/assets/js/moofx.js'
+    count: 2
+-
+    url: 'http://spirographics.com/components/com_roksprocket/assets/js/roksprocket.js'
+    count: 2
+-
+    url: 'http://spirographics.com/components/com_roksprocket/layouts/features/assets/js/features.js'
+    count: 2
+-
+    url: 'http://spirographics.com/components/com_roksprocket/layouts/features/themes/slideshow/slideshow.js'
+    count: 2
+-
+    url: 'http://spirographics.com/images/e/a/5/e/9/ea5e98f345f44e2c283cf2159076c394daca5292-pfarfurthumbnail.jpeg'
+    count: 2
+-
+    url: 'http://spirographics.com/js/varien/product.js'
+    count: 2
+-
+    url: 'http://spirographics.com/language/en-GB/en-GB'
+    count: 2
+-
+    url: 'http://spirographics.com/libraries/joomla/css.php'
+    count: 2
+-
+    url: 'http://spirographics.com/libraries/joomla/lol.php'
+    count: 2
+-
+    url: 'http://spirographics.com/license.php'
+    count: 2
+-
+    url: 'http://spirographics.com/media/jui/js/jquery.min.js'
+    count: 2
+-
+    url: 'http://spirographics.com/modules/mod_roknavmenu/themes/default/js/rokmediaqueries.js'
+    count: 2
+-
+    url: 'http://spirographics.com/our-work/identity-branding/21-legend-entertainment-logo'
+    count: 2
+-
+    url: 'http://spirographics.com/our-work/identity-branding/27-burnt-water-usa-identity'
+    count: 2
+-
+    url: 'http://spirographics.com/our-work/identity-branding/9-allied-insurance-logo'
+    count: 2
+-
+    url: 'http://spirographics.com/our-work/print/10-the-big-thing-next-big-thing'
+    count: 2
+-
+    url: 'http://spirographics.com/our-work/print/2-fuel'
+    count: 2
+-
+    url: 'http://spirographics.com/our-work/print/25-auto-generate-from-title'
+    count: 2
+-
+    url: 'http://spirographics.com/plugins/captcha/jproicaptcha/jproicaptcha.php'
+    count: 2
+-
+    url: 'http://spirographics.com/samplc.php'
+    count: 2
+-
+    url: 'http://spirographics.com/testing/storysong15/product/girls-tank'
+    count: 2
+-
+    url: 'http://www.spirographics.com/about-us'
+    count: 2
+-
+    url: 'http://www.spirographics.com/administrator/includes/pathways.php'
+    count: 2
+-
+    url: 'http://www.spirographics.com/assets/+d/f+'
+    count: 2
+-
+    url: 'http://www.spirographics.com/component/tags/tag/4'
+    count: 2
+-
+    url: 'http://www.spirographics.com/components/com_mailto/views/sent/metadata'
+    count: 2
+-
+    url: 'http://www.spirographics.com/ftb/ftb.imagegallery.aspx'
+    count: 2
+-
+    url: 'http://www.spirographics.com/g;m.parentNode.insertBefore(a,m)%0a%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20})(window,document,''script'',''/www.google-analytics.com/analytics.js'',''ga'');%0a%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20ga(''create'',%20''UA-27846049-1'',%20''auto'');%0a%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20ga(''send'',%20''pageview'');%0a$(document).ready(function()%20{'
+    count: 2
+-
+    url: 'http://www.spirographics.com/g;m.parentnode.insertbefore'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/gal_logocomps3.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/ad_cash_books.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/ad_springb.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/ad_yol.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/c_burntwater.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/c_gitrdone.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/c_ypp.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/l_allied.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/l_amercy.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/l_amt.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/l_hero.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/l_legend.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/m_big08.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/m_fuel.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/w_bill.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/w_ftea.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/w_kent.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/images/portfolio/wysworld_h.jpg'
+    count: 2
+-
+    url: 'http://www.spirographics.com/js/varien/product.js'
+    count: 2
+-
+    url: 'http://www.spirographics.com/modules/mod_simplefileuploadv1.3/images/bigrotation2.gif'
+    count: 2
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding/16-mercy-children-s-clinic-logo'
+    count: 2
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding/5-advanced-molding-technologies'
+    count: 2
+-
+    url: 'http://www.spirographics.com/our-work/print/25-auto-generate-from-title'
+    count: 2
+-
+    url: 'http://www.spirographics.com/our-work/web/22-capital-recycling-website-development'
+    count: 2
+-
+    url: 'http://www.spirographics.com/our-work/web/23-kennedy-cookbook-website-development'
+    count: 2
+-
+    url: 'http://www.spirographics.com/sitemap'
+    count: 2
+-
+    url: 'http://www.spirographics.com/testing/factory/'
+    count: 2
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~month/request_format~html'
+    count: 2
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-1-2016'
+    count: 2
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-1-2018'
+    count: 2
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/cat_ids~4'
+    count: 2
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/cat_ids~5'
+    count: 2
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/cat_ids~6'
+    count: 2
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/cat_ids~7'
+    count: 2
+-
+    url: 'http://www.spirographics.com/testing/factory/event/the-cash-legacy-a-musical-tribute-to-the-man-in-black/'
+    count: 2
+-
+    url: 'http://www.spirographics.com/wp-admin/admin-ajax.php'
+    count: 2
+-
+    url: 'http://SPIROGRAPHICS.COM/language/en-GB/en-GB'
+    count: 1
+-
+    url: 'http://SPIROGRAPHICS.COM/manager'
+    count: 1
+-
+    url: 'http://SPIROGRAPHICS.COM/wp-content/plugins/wp-easy-gallery-pro/admin/php.php'
+    count: 1
+-
+    url: 'http://SPIROGRAPHICS.com/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/2-uncategorised/31-manypaws'
+    count: 1
+-
+    url: 'http://spirographics.com/API/DW/Dwplugin/SystemLabel/SiteConfig'
+    count: 1
+-
+    url: 'http://spirographics.com/API/DW/Dwplugin/TemplateManage/login_site'
+    count: 1
+-
+    url: 'http://spirographics.com/API/DW/Dwplugin/TemplateManage/manage_site'
+    count: 1
+-
+    url: 'http://spirographics.com/API/DW/Dwplugin/TemplateManage/save_template'
+    count: 1
+-
+    url: 'http://spirographics.com/API/DW/Dwplugin/ThirdPartyTags/SiteFactory'
+    count: 1
+-
+    url: 'http://spirographics.com/Admin/Common/HelpLinks'
+    count: 1
+-
+    url: 'http://spirographics.com/Admin/Images/LoginImages/admin_text.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/Admin/Images/LoginImages/admin_top.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/Admin/Login.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/CHANGELOG'
+    count: 1
+-
+    url: 'http://spirographics.com/Error.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/FCKeditor/_whatsnew'
+    count: 1
+-
+    url: 'http://spirographics.com/Help'
+    count: 1
+-
+    url: 'http://spirographics.com/Install/logo.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/License'
+    count: 1
+-
+    url: 'http://spirographics.com/Ntalker/lawfirm.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/Prompt/images/P_Wrong.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/Search'
+    count: 1
+-
+    url: 'http://spirographics.com/Template/Default/Skin/user/images/login_back.jpg'
+    count: 1
+-
+    url: 'http://spirographics.com/User/Login.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/UserCenter/css/admin/bgimg/admin_all_bg.png'
+    count: 1
+-
+    url: 'http://spirographics.com/about-us/31-manypaws'
+    count: 1
+-
+    url: 'http://spirographics.com/admin-console'
+    count: 1
+-
+    url: 'http://spirographics.com/admin/inc/xml.xslt'
+    count: 1
+-
+    url: 'http://spirographics.com/admin/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/admin/login.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/admin/start/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/admin/template/article_more/config'
+    count: 1
+-
+    url: 'http://spirographics.com/administrator/components/com_bt_portfolio/helpers/uploadify/swfobject.js'
+    count: 1
+-
+    url: 'http://spirographics.com/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php'
+    count: 1
+-
+    url: 'http://spirographics.com/administrator/components/com_extplorer/style/opacity.js'
+    count: 1
+-
+    url: 'http://spirographics.com/administrator/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php'
+    count: 1
+-
+    url: 'http://spirographics.com/administrator/manifests/files/joomla'
+    count: 1
+-
+    url: 'http://spirographics.com/adminsoft/templates/images/login_bg_top.jpg'
+    count: 1
+-
+    url: 'http://spirographics.com/api/api_user'
+    count: 1
+-
+    url: 'http://spirographics.com/app/home/skins/default/style.css'
+    count: 1
+-
+    url: 'http://spirographics.com/app/images/login/logo.png'
+    count: 1
+-
+    url: 'http://spirographics.com/app/images/login/toplogo.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/app/js/source/wcmlib/WCMConstants.js'
+    count: 1
+-
+    url: 'http://spirographics.com/app/login.jsp'
+    count: 1
+-
+    url: 'http://spirographics.com/assets/5e7a92b33a3eea058216eab8908791bb.js'
+    count: 1
+-
+    url: 'http://spirographics.com/assets/d9e6e02c6c2311f97ea63e4a95d62e0d.css'
+    count: 1
+-
+    url: 'http://spirographics.com/auth/login'
+    count: 1
+-
+    url: 'http://spirographics.com/bencandy.php'
+    count: 1
+-
+    url: 'http://spirographics.com/blog/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/blog/wp-login.php'
+    count: 1
+-
+    url: 'http://spirographics.com/blogs/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/cache/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/cgi-mod/header_logo.cgi'
+    count: 1
+-
+    url: 'http://spirographics.com/changelog'
+    count: 1
+-
+    url: 'http://spirographics.com/common/help/images/helplogo.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/common/help/images/helplogo_zh.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/component/content'
+    count: 1
+-
+    url: 'http://spirographics.com/component/content/article'
+    count: 1
+-
+    url: 'http://spirographics.com/component/tags/tag/4-packaging'
+    count: 1
+-
+    url: 'http://spirographics.com/component/tags/tag/6-advertisement'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_contact/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_content/helpers/user.php'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_creativecontactform/assets/js/creativecontactform.js'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_jdownloads/jdownloads.js'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_jnews/includes/tabpane.js'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_myblog/js/myblog.js'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_roksprocket/assets/js/rokmediaqueries.js'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_roksprocket/assets/js/roksprocket.request.js'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_roksprocket/layouts/features/themes/slideshow/slideshow.css'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_roksprocket/layouts/mosaic/assets/js/mosaic.js'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_roksprocket/layouts/mosaic/themes/default/mosaic.css'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_roksprocket/layouts/mosaic/themes/default/mosaic.js'
+    count: 1
+-
+    url: 'http://spirographics.com/components/com_sexycontactform/fileupload/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/console/auth/reg_newuser.jsp'
+    count: 1
+-
+    url: 'http://spirographics.com/console/include/not_login'
+    count: 1
+-
+    url: 'http://spirographics.com/console/js/CTRSRequestParam.js'
+    count: 1
+-
+    url: 'http://spirographics.com/console/js/CWCMDialogHead.js'
+    count: 1
+-
+    url: 'http://spirographics.com/coremail/common/help/images/helplogo.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/coremail/common/help/images/helplogo_zh.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/data/admin/ver'
+    count: 1
+-
+    url: 'http://spirographics.com/deptWebsiteAction.do'
+    count: 1
+-
+    url: 'http://spirographics.com/digg.php'
+    count: 1
+-
+    url: 'http://spirographics.com/docs.css'
+    count: 1
+-
+    url: 'http://spirographics.com/doku.php'
+    count: 1
+-
+    url: 'http://spirographics.com/downloader'
+    count: 1
+-
+    url: 'http://spirographics.com/e/master/login.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/faqs-new/wp-login.php'
+    count: 1
+-
+    url: 'http://spirographics.com/help/ch_gb/images/help-title.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/identification.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/images/branding/logo.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/images/default/post_bt.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/images/favicon.ico'
+    count: 1
+-
+    url: 'http://spirographics.com/images/gal_webcomps1.jpg'
+    count: 1
+-
+    url: 'http://spirographics.com/images/hwem.css'
+    count: 1
+-
+    url: 'http://spirographics.com/images/login-page.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/images/login/eyoumail.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/images/login9/login_33.jpg'
+    count: 1
+-
+    url: 'http://spirographics.com/images/login_03.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/images/powered_by.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/images/print1.jpg'
+    count: 1
+-
+    url: 'http://spirographics.com/images/zh-CN/logo.ico'
+    count: 1
+-
+    url: 'http://spirographics.com/images/zh-CN/winisp.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/inc/playerKinds'
+    count: 1
+-
+    url: 'http://spirographics.com/includes/general.js'
+    count: 1
+-
+    url: 'http://spirographics.com/index.php/admin'
+    count: 1
+-
+    url: 'http://spirographics.com/install'
+    count: 1
+-
+    url: 'http://spirographics.com/issmall'
+    count: 1
+-
+    url: 'http://spirographics.com/jcms/index.jsp'
+    count: 1
+-
+    url: 'http://spirographics.com/jcms/index_jcms.jsp'
+    count: 1
+-
+    url: 'http://spirographics.com/joomla/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/js/ajax_x.js'
+    count: 1
+-
+    url: 'http://spirographics.com/js/mage/cookies.js'
+    count: 1
+-
+    url: 'http://spirographics.com/language/en-GB/en-GB.xmlindex.php'
+    count: 1
+-
+    url: 'http://spirographics.com/libraries/gantry/css/grid-responsive.css'
+    count: 1
+-
+    url: 'http://spirographics.com/libraries/gantry/js/browser-engines.js'
+    count: 1
+-
+    url: 'http://spirographics.com/license'
+    count: 1
+-
+    url: 'http://spirographics.com/list.php'
+    count: 1
+-
+    url: 'http://spirographics.com/login/Jeecms.do'
+    count: 1
+-
+    url: 'http://spirographics.com/m'
+    count: 1
+-
+    url: 'http://spirographics.com/main/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/manager/html'
+    count: 1
+-
+    url: 'http://spirographics.com/manager/media'
+    count: 1
+-
+    url: 'http://spirographics.com/manager/status'
+    count: 1
+-
+    url: 'http://spirographics.com/master/login.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/media/css.php'
+    count: 1
+-
+    url: 'http://spirographics.com/media/jui/js/jquery-migrate.min.js'
+    count: 1
+-
+    url: 'http://spirographics.com/media/system/js/core.js'
+    count: 1
+-
+    url: 'http://spirographics.com/media/system/js/html5fallback.js'
+    count: 1
+-
+    url: 'http://spirographics.com/member/space/company/info'
+    count: 1
+-
+    url: 'http://spirographics.com/modules/mod_ariimagesliderer/mod_ariimagesliderer.php'
+    count: 1
+-
+    url: 'http://spirographics.com/modules/mod_ariimageslidersa/mod_ariimageslidersa.php'
+    count: 1
+-
+    url: 'http://spirographics.com/modules/mod_creativecontactform/mod_creativecontactform'
+    count: 1
+-
+    url: 'http://spirographics.com/modules/mod_fxprev/mod_fxprev'
+    count: 1
+-
+    url: 'http://spirographics.com/modules/mod_roknavmenu/themes/default/js/responsive-selectbox.js'
+    count: 1
+-
+    url: 'http://spirographics.com/modules/mod_roknavmenu/themes/default/js/responsive.js'
+    count: 1
+-
+    url: 'http://spirographics.com/new_gb/help/images/usage/3.3.gif'
+    count: 1
+-
+    url: 'http://spirographics.com/news/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/news/wp-login.php'
+    count: 1
+-
+    url: 'http://spirographics.com/our-work/print/30-quick-muffler'
+    count: 1
+-
+    url: 'http://spirographics.com/plug/publish'
+    count: 1
+-
+    url: 'http://spirographics.com/plugins/system/debug/%20./.%20/debugi.php'
+    count: 1
+-
+    url: 'http://spirographics.com/plus/heightsearch.php'
+    count: 1
+-
+    url: 'http://spirographics.com/plus/rssmap'
+    count: 1
+-
+    url: 'http://spirographics.com/plus/sitemap'
+    count: 1
+-
+    url: 'http://spirographics.com/poir'
+    count: 1
+-
+    url: 'http://spirographics.com/robots'
+    count: 1
+-
+    url: 'http://spirographics.com/samplc.php.suspected_'
+    count: 1
+-
+    url: 'http://spirographics.com/shop/js/mage/cookies.js'
+    count: 1
+-
+    url: 'http://spirographics.com/site/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/sites/all/libraries/elfinder/files/samplc.php'
+    count: 1
+-
+    url: 'http://spirographics.com/sites/all/libraries/elfinder/php/connector.minimal.php'
+    count: 1
+-
+    url: 'http://spirographics.com/siteserver/login.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/siteserver/upgrade/default.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/skin/frontend/default/modern/css/styles.css'
+    count: 1
+-
+    url: 'http://spirographics.com/store/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/store/js/mage/cookies.js'
+    count: 1
+-
+    url: 'http://spirographics.com/stylesheet.css'
+    count: 1
+-
+    url: 'http://spirographics.com/support/wp-login.php'
+    count: 1
+-
+    url: 'http://spirographics.com/system/Login.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/system/language/zh-cn'
+    count: 1
+-
+    url: 'http://spirographics.com/system/skins/default/system.login'
+    count: 1
+-
+    url: 'http://spirographics.com/template/home'
+    count: 1
+-
+    url: 'http://spirographics.com/templates/gantry/css-compiled/master-5a9828189e6ba71b3156c46ffaa30220.css'
+    count: 1
+-
+    url: 'http://spirographics.com/templates/gantry/css/gantry-custom.css'
+    count: 1
+-
+    url: 'http://spirographics.com/templates/gantry/js/rokmediaqueries.js'
+    count: 1
+-
+    url: 'http://spirographics.com/templates/sgi13/css/sgi13-custom.css'
+    count: 1
+-
+    url: 'http://spirographics.com/test/index.php'
+    count: 1
+-
+    url: 'http://spirographics.com/testing/storysong15'
+    count: 1
+-
+    url: 'http://spirographics.com/tiny_mce/plugins/tinybrowser/upload.php'
+    count: 1
+-
+    url: 'http://spirographics.com/tiny_mce/plugins/tinybrowser/upload_file.php'
+    count: 1
+-
+    url: 'http://spirographics.com/tmp/lol.php'
+    count: 1
+-
+    url: 'http://spirographics.com/tmp/system.php'
+    count: 1
+-
+    url: 'http://spirographics.com/tmp/update_hvp.php'
+    count: 1
+-
+    url: 'http://spirographics.com/tpl/user/tpl1/css/skins/blue.css'
+    count: 1
+-
+    url: 'http://spirographics.com/update_hvp.php'
+    count: 1
+-
+    url: 'http://spirographics.com/wcm'
+    count: 1
+-
+    url: 'http://spirographics.com/web-console'
+    count: 1
+-
+    url: 'http://spirographics.com/web2/login_template/1.files/Logo1.jpg'
+    count: 1
+-
+    url: 'http://spirographics.com/whir_system/login.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/whir_system/module/security/login.aspx'
+    count: 1
+-
+    url: 'http://spirographics.com/wordpress/wp-login.php'
+    count: 1
+-
+    url: 'http://spirographics.com/wp-admin/admin-ajax.php'
+    count: 1
+-
+    url: 'http://spirographics.com/wp-content/plugins/Login-wall-etgFB/login_wall.php'
+    count: 1
+-
+    url: 'http://spirographics.com/wp-content/plugins/revslider/temp/update_extract/samplc.php'
+    count: 1
+-
+    url: 'http://spirographics.com/wp-content/plugins/samplc.php'
+    count: 1
+-
+    url: 'http://spirographics.com/wp-content/plugins/wysija-newsletters/js/tinymce/tiny_mce.js'
+    count: 1
+-
+    url: 'http://spirographics.com/wp-content/themes/u-design/scripts/script.js'
+    count: 1
+-
+    url: 'http://spirographics.com/wp-content/uploads/samplc.php'
+    count: 1
+-
+    url: 'http://spirographics.com/wp/wp-login.php'
+    count: 1
+-
+    url: 'http://spirographics.com/ycportal/js/wbTextBox/showimg.jsp'
+    count: 1
+-
+    url: 'http://spirographics.com/ycportal/webpublish/module.main'
+    count: 1
+-
+    url: 'http://www.spirographics.com/,d=a.html5'
+    count: 1
+-
+    url: 'http://www.spirographics.com/1234t.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/COPYRIGHT'
+    count: 1
+-
+    url: 'http://www.spirographics.com/admin.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp'
+    count: 1
+-
+    url: 'http://www.spirographics.com/admin/login.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/admin/moadmin.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/administrator/manifests/files/joomla'
+    count: 1
+-
+    url: 'http://www.spirographics.com/application/x-ecmascript'
+    count: 1
+-
+    url: 'http://www.spirographics.com/application/x-www-form-urlencoded'
+    count: 1
+-
+    url: 'http://www.spirographics.com/bitrix/admin/index.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/bread'
+    count: 1
+-
+    url: 'http://www.spirographics.com/buzzplant.com'
+    count: 1
+-
+    url: 'http://www.spirographics.com/component/tags/tag/4-packaging'
+    count: 1
+-
+    url: 'http://www.spirographics.com/component/tags/tag/6-advertisement'
+    count: 1
+-
+    url: 'http://www.spirographics.com/components/com_roksprocket/assets/js/moofx.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/components/com_roksprocket/assets/js/mootools-mobile.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/components/com_roksprocket/assets/js/rokmediaqueries.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/components/com_roksprocket/assets/js/roksprocket.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/components/com_roksprocket/assets/js/roksprocket.request.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/components/com_roksprocket/layouts/features/assets/js/features.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/components/com_roksprocket/layouts/features/themes/slideshow/slideshow.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/components/com_roksprocket/layouts/features/themes/slideshow/slideshow.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/components/com_roksprocket/layouts/mosaic/assets/js/mosaic.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/components/com_roksprocket/layouts/mosaic/themes/default/mosaic.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/components/com_roksprocket/layouts/mosaic/themes/default/mosaic.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/data-featherlight='
+    count: 1
+-
+    url: 'http://www.spirographics.com/editor/editor/filemanager/browser/default/connectors/asp/connector.asp'
+    count: 1
+-
+    url: 'http://www.spirographics.com/editor/filemanager/browser/default/connectors/asp/connector.asp'
+    count: 1
+-
+    url: 'http://www.spirographics.com/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp'
+    count: 1
+-
+    url: 'http://www.spirographics.com/ftb.imagegallery.aspx'
+    count: 1
+-
+    url: 'http://www.spirographics.com/ftproot.tar.gz'
+    count: 1
+-
+    url: 'http://www.spirographics.com/ftproot.zip'
+    count: 1
+-
+    url: 'http://www.spirographics.com/google39faf70bf4b24e2d'
+    count: 1
+-
+    url: 'http://www.spirographics.com/headwig'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/6/9/9/4/d/6994dd11f0def2a972766dc2178b090c074dc827-ppdbooksthumbnail.jpeg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/a/1/8/7/1/a1871047125b687635e8b69040a3cc064f28891d-pfactorythumbnail.jpeg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/e/a/5/e/9/ea5e98f345f44e2c283cf2159076c394daca5292-pfarfurthumbnail.jpeg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/e/f/8/4/9/ef849b34d2501df00e81044bcd525a4b7db119fb-pstorysongthumbnail.jpeg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/f/6/2/1/8/f62187ed7cf14284f155617cdc8112481fe00545-pgalileothumbnail.jpeg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/portfolio/c_ghall.jpg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/portfolio/l_dfsn.jpg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/portfolio/l_galileo.jpg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/portfolio/l_praisehymn.jpg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/portfolio/w_capital.jpg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/portfolio/w_tldmusic.jpg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/print1.jpg'
+    count: 1
+-
+    url: 'http://www.spirographics.com/images/sgi_logo_tranwht.png'
+    count: 1
+-
+    url: 'http://www.spirographics.com/info.asp'
+    count: 1
+-
+    url: 'http://www.spirographics.com/joomla/administrator/index.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/joomla/index.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/jquery.org/license'
+    count: 1
+-
+    url: 'http://www.spirographics.com/libraries/gantry/css/grid-responsive.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/libraries/gantry/js/browser-engines.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/license'
+    count: 1
+-
+    url: 'http://www.spirographics.com/license.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/manage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp'
+    count: 1
+-
+    url: 'http://www.spirographics.com/media/jui/js/chosen.jquery.min.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/media/jui/js/jquery-migrate.min.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/media/jui/js/jquery.min.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/media/system/js/mootools-more.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/moadmin.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/moadmin/moadmin.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/modules/mod_roknavmenu/themes/default/js/responsive.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/modules/mod_roknavmenu/themes/default/js/rokmediaqueries.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/modules/mod_simplefileuploadv1.3/mod_simplefileupload.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/modules/mod_simplefileuploadv1.3/tmpl/fancybox/jquery.fancybox-1.3.4.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/modules/mod_simplefileuploadv1.3/tmpl/fancybox/jquery.fancybox-1.3.4.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/modules/mod_simplefileuploadv1.3/tmpl/fancybox/jquery.mousewheel-3.0.4.pack.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/modules/mod_simplefileuploadv1.3/tmpl/md5-min.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/our-work/identity-branding/20-hero-identity'
+    count: 1
+-
+    url: 'http://www.spirographics.com/our-work/print/30-quick-muffler'
+    count: 1
+-
+    url: 'http://www.spirographics.com/our-work/print/4-the-row'
+    count: 1
+-
+    url: 'http://www.spirographics.com/phpMoAdmin-MongoDB-Admin-Tool-for-PHP/moadmin.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/phpMoAdmin/moadmin.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/plus/ad_js.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/plus/mytag_j.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/readme'
+    count: 1
+-
+    url: 'http://www.spirographics.com/readme-ical'
+    count: 1
+-
+    url: 'http://www.spirographics.com/recent_wo'
+    count: 1
+-
+    url: 'http://www.spirographics.com/scripts/moadmin.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/sites/all/libraries/elfinder/files/wpfoot2.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/sites/all/libraries/elfinder/php/connector.minimal.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/templates/gantry/css-compiled/master-5a9828189e6ba71b3156c46ffaa30220.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/templates/gantry/css-compiled/menu-0801e8ea3ac6dd8c7c1910d27a912535.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/templates/sgi13/css-compiled/master-c6adbc16ba5262396c02cb68a711f8c1.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~agenda/request_format~html'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-1-2013'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-1-2015'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-1-2020'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-2-2011'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-2-2012'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-2-2013'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-2-2014'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-2-2015'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-2-2017'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/factory/calendar/action~oneday/exact_date~1-2-2018'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gcore-ui/css/gcore-ui.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gdropdown/gdropdown.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gdropdown/gdropdown.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gmodal/gmodal.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gmodal/gmodal.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gsliders/gsliders.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gsliders/gsliders.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gtabs/gtabs.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gtabs/gtabs.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gtooltip/gtooltip.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gtooltip/gtooltip.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gvalidation/gvalidation.css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gvalidation/gvalidation.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/gplugins/gvalidation/lang/en.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/jquery/jquery.inputmask.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/testing/music_g5/libraries/cegcore/assets/jquery/jquery.js'
+    count: 1
+-
+    url: 'http://www.spirographics.com/text/css'
+    count: 1
+-
+    url: 'http://www.spirographics.com/text/html'
+    count: 1
+-
+    url: 'http://www.spirographics.com/text/javascript'
+    count: 1
+-
+    url: 'http://www.spirographics.com/text/plain'
+    count: 1
+-
+    url: 'http://www.spirographics.com/text/xml'
+    count: 1
+-
+    url: 'http://www.spirographics.com/tiny_mce/plugins/tinybrowser/upload.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/tiny_mce/plugins/tinybrowser/upload_file.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/tools/moadmin.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/wp-content/plugins/11172305.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/wp-content/plugins/Login-wall-etgFB/login_wall.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/wp-content/plugins/revslider/temp/update_extract/wpfoot2.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/wp-content/uploads/wpfoot1.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/wpfoot2.php'
+    count: 1
+-
+    url: 'http://www.spirographics.com/wpfoot2.php.suspected_'
+    count: 1
+-
+    url: 'http://www.spirographics.com/xircguam'
+    count: 1
+-
+    url: 'http://www.spirographics.com/yeager/COPYRIGHT'
+    count: 1
+-
+    url: 'http://www.spirographics.com/新建公文包.zip'
+    count: 1
