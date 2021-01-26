@@ -15,6 +15,9 @@
             {% if specialty.text %}
             <p>{{ specialty.text }}</p>
             {% endif %}
+            {% if specialty.link %}
+            <a href="http://{{ specialty.link }}"<p>{{ specialty.linktext }}</p></a>
+            {% endif %}
             </div>
         </div>
     {% endfor %}

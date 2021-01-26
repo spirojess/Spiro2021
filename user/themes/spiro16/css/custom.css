@@ -1,6 +1,7 @@
 /* @override 
 	http://localhost:8888/spiro/user/themes/spiro16/css/custom.css?*
-	http://localhost:8888/spiro_d/user/themes/spiro16/css/custom.css */
+	http://localhost:8888/spiro_d/user/themes/spiro16/css/custom.css
+	http://localhost:8888/Spiro2021/user/themes/spiro16/css/custom.css */
 
 
 
@@ -26,7 +27,8 @@
 #body{
 		margin-top: 0;
 		padding-top: 0;
-	}
+	padding-bottom: 44px;
+}
 
 .nobreak{
 	white-space: nowrap;
@@ -403,11 +405,13 @@ section#portfolio.archives {
 }
 
 
-.specialties .specialty-items .specialty {
-	width: 48%;
-	display: inline-block;
-	padding: 12px;
-	background-color: #ffffff;
+.specialty-items {
+	display: flex;
+	align-items: stretch;
+	text-align: center;
+}
+.specialty-items .specialty {
+	padding: 11px;
 }
 
 #body div.modular-row.specialties div.specialty-items div.specialty div.specialty-content p {
@@ -415,11 +419,14 @@ section#portfolio.archives {
 }
 
 div.modular-row.specialties {
-	background-color: #efefef;
-	padding-bottom: 66px;
+	padding: 0px;
 }
 
 #body div.modular-row.specialties > h4 {
 	text-align: center;
 }
 
+section#body div.modular-row.specialties div.specialty-items div.specialty div.specialty-content {
+	padding: 20px;
+	background-color: #fcfcfc;
+}
