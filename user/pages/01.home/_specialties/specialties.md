@@ -2,6 +2,7 @@
 title: 'Graphic Design in everything'
 published: true
 menu: Specialties
+class: fullwidth
 features:
     -
         icon: null
@@ -39,6 +40,6 @@ specialties:
         image: image2.jpg
 ---
 
-## Graphic Design is integrated in everything we do. 
+## Graphic Design is integrated in everything we do.
 ### After thousands of projects... from tiny web banners to advertisements that covered 10,000 square feet of the Luxor Las Vegas hotel... we still get excited every time we get to apply our design experience to something new.  What do you need?
 ####Some of our Specialties
