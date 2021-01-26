@@ -2,7 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/admin/languages/zh-tw.yaml',
+<<<<<<< refs/remotes/origin/master
     'modified' => 1611596558,
+=======
+    'modified' => 1611676796,
+>>>>>>> End of day Tuesday
     'data' => [
         'PLUGIN_ADMIN' => [
             'ADMIN_BETA_MSG' => '這是 Beta 版！如果要用在營運中請自行承擔風險…',

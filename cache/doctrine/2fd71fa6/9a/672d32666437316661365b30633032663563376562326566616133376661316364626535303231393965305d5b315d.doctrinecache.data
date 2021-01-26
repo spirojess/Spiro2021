@@ -1,0 +1,42 @@
+1612492667
+a:2:{s:7:"content";s:3180:"<section id="services">
+    <div class="modular-row small">
+            <h2>A Full Service Design Studio</h2>
+<h3>We are creative problem solvers that like to get knee-deep in code and smell fresh ink. We leverage digital and print media to provide consistent marketing messages from creative concept through final production.</h3>
+    </div>
+    <div class="row text-center">
+                   <div class="feature four-x">
+                                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-rocket fa-stack-1x fa-inverse"></i>
+                    </span>
+                                                    <h4 class="service-heading">Branding</h4>
+                                                    <p class="text-muted">Launching a new product or a new business venture? We can help you develop an identity that communicates your brand consistently across all forms of printed and digital media.</p>
+                            </div>
+                   <div class="feature four-x">
+                                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-lightbulb-o fa-stack-1x fa-inverse"></i>
+                    </span>
+                                                    <h4 class="service-heading">Creative</h4>
+                                                    <p class="text-muted">We create the pieces that help you reach your marketing goals. From identity packages, to brochures, advertisements, product packaging, and displays - we can handle all <span class="nobreak">of it.</span></p>
+                            </div>
+                   <div class="feature four-x">
+                                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-code fa-stack-1x fa-inverse"></i>
+                    </span>
+                                                    <h4 class="service-heading">Development</h4>
+                                                    <p class="text-muted">Just having a website isn‘t enough anymore.  Effective websites look great whether viewed on a laptop, tablet or phone and work in conjunction with your social platforms to get results.</p>
+                            </div>
+                   <div class="feature four-x">
+                                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-wrench fa-stack-1x fa-inverse"></i>
+                    </span>
+                                                    <h4 class="service-heading">Production & Support</h4>
+                                                    <p class="text-muted">Your advertisement needs to look great when printed. Your site needs to function properly under heavy loads. Our staff is here to support you with our 23 years of expertise.</p>
+                            </div>
+            </div>
+</section>
+";s:12:"content_meta";N;}

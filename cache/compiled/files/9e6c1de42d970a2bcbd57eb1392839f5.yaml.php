@@ -2,7 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/system/config/security.yaml',
+<<<<<<< refs/remotes/origin/master
     'modified' => 1611596376,
+=======
+    'modified' => 1611676792,
+>>>>>>> End of day Tuesday
     'data' => [
         'xss_whitelist' => [
             0 => 'admin.super'

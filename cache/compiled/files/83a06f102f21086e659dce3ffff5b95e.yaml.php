@@ -2,7 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/admin/languages/th.yaml',
+<<<<<<< refs/remotes/origin/master
     'modified' => 1611596558,
+=======
+    'modified' => 1611676796,
+>>>>>>> End of day Tuesday
     'data' => [
         'PLUGIN_ADMIN' => [
             'ADMIN_BETA_MSG' => 'นี่เป็นรุ่นทดลอง หากคุณใช้บนเว็บจริงคุณต้องยอมรับในความเสี่ยงนั้นเอง',

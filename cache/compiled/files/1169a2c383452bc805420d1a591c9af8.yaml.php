@@ -2,7 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/login/login.yaml',
+<<<<<<< refs/remotes/origin/master
     'modified' => 1611596614,
+=======
+    'modified' => 1611691847,
+>>>>>>> End of day Tuesday
     'data' => [
         'enabled' => true,
         'built_in_css' => true,

@@ -1,0 +1,21 @@
+1612492670
+a:2:{s:7:"content";s:1179:"<div class="modular-row specialties fullwidth">
+    <h2>Graphic Design is integrated in everything we do.</h2>
+<h3>After thousands of projects... from tiny web banners to advertisements that covered 10,000 square feet of the Luxor Las Vegas hotel... we still get excited every time we get to apply our design experience to something new.  What do you need?</h3>
+<h4>Some of our Specialties</h4>
+    <div class="specialty-items">
+               <div class="specialty" style="background-image: image.jpg;">
+                        <div class="specialty-content">
+                                    <h4>Sales Sheets</h4>
+                                    <p>Sales sheets that detail and promote your product or service.</p>
+                                    </div>
+        </div>
+               <div class="specialty" style="background-image: image2.jpg;">
+                        <div class="specialty-content">
+                                    <h4>Brochures and Catalogs</h4>
+                                    <p>Feature your products and services in detail with a brochure or catalog.</p>
+                                    </div>
+        </div>
+        </div>
+</div>
+";s:12:"content_meta";N;}

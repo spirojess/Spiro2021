@@ -2,7 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/admin/languages/fa.yaml',
+<<<<<<< refs/remotes/origin/master
     'modified' => 1611596558,
+=======
+    'modified' => 1611676796,
+>>>>>>> End of day Tuesday
     'data' => [
         'PLUGIN_ADMIN' => [
             'ADMIN_BETA_MSG' => 'این یک نسخه تکمیل نشده است! استفاده از آن در محصولتان شمارا با خطر مواجه میکند...',

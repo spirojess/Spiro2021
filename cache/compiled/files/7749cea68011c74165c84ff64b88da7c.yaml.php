@@ -2,7 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/flex-objects/flex-objects.yaml',
+<<<<<<< refs/remotes/origin/master
     'modified' => 1611596550,
+=======
+    'modified' => 1611676802,
+>>>>>>> End of day Tuesday
     'data' => [
         'enabled' => true,
         'built_in_css' => true,

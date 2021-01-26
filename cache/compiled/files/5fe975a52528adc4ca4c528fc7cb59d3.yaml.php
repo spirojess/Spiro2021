@@ -2,7 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/admin/languages/en.yaml',
+<<<<<<< refs/remotes/origin/master
     'modified' => 1611596558,
+=======
+    'modified' => 1611676796,
+>>>>>>> End of day Tuesday
     'data' => [
         'PLUGIN_ADMIN' => [
             'ADMIN_NOSCRIPT_MSG' => 'Please enable JavaScript in your browser.',

@@ -2,7 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/config/plugins/simple_contact.yaml',
+<<<<<<< refs/remotes/origin/master
     'modified' => 1493835846,
+=======
+    'modified' => 1611676794,
+>>>>>>> End of day Tuesday
     'data' => [
         'enabled' => false,
         'subject' => 'New contact from Grav site!',

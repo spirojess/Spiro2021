@@ -2,7 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/config/plugins/backup-manager.yaml',
+<<<<<<< refs/remotes/origin/master
     'modified' => 1532112072,
+=======
+    'modified' => 1611676794,
+>>>>>>> End of day Tuesday
     'data' => [
         'enabled' => true,
         'backup' => [
