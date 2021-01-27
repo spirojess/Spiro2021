@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/ganalytics/blueprints.yaml',
-    'modified' => 1611691847,
+    'modified' => 1493835846,
     'data' => [
         'name' => 'Google Analytics',
         'version' => '1.4.0',

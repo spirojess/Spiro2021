@@ -1,0 +1,91 @@
+1612511958
+a:2:{s:7:"content";s:3116:"
+    
+    
+
+
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#ls-huwrftvQW2").lightSlider({
+        item: 1,
+        slideMove: 1,
+        slideMargin: 0,
+        mode: 'fade',
+        cssEasing: 'ease',
+        easing: '',
+        speed: 1000,
+        auto: true,
+        loop: true,
+        pause: 4500,
+        controls: false,
+        keyPress: true,
+        adaptiveHeight: true,
+        vertical: false,
+        verticalHeight: 500,
+        pager: false,
+        gallery: false,
+        galleryMargin: 15,
+        thumbMargin: 5,
+        enableTouch: true,
+        enableDrag: true,
+
+    });
+  });
+</script>
+
+
+<div id="ls-huwrftvQW2-wrapper" class="grav-lightslider">
+        <ul id="ls-huwrftvQW2" style="height: auto;">
+                                                                                    <li data-thumb="/Spiro2021/images/9/e/6/6/6/9e666357db8252bc95b1c6ed71658af6f6dde129-image-1.jpg?g-df98479d">
+                <div class="panel-bg" style="
+                    background-image: url(/Spiro2021/images/2/2/1/2/7/2212716b3f3ff2687927d67c63368b8d1e46d9bb-image-1.jpg?g-df98479d);                    min-height: auto;
+                    height: auto;
+                    ">
+                    <div class="panel-padding " style="
+                        padding: 30%; 39%;
+                        ">
+                        <blockquote>
+<p>t<strong>Web</strong>IdentityPrintWebIdentityPrint</p>
+</blockquote>
+
+                    </div>
+                </div>
+            </li>
+                                                                                    <li data-thumb="/Spiro2021/images/c/3/f/1/a/c3f1af3ddfeb1f9563ec8defd00d3fa5c34ccca1-image-2.jpg?g-df98479d">
+                <div class="panel-bg" style="
+                    background-image: url(/Spiro2021/images/b/6/4/2/7/b6427f03810c81050c3419032eb125ea554223ad-image-2.jpg?g-df98479d);                    min-height: auto;
+                    height: auto;
+                    ">
+                    <div class="panel-padding " style="
+                        padding: 30%; 39%;
+                        ">
+                        
+<blockquote>
+<p>ty<strong>Print</strong>WebIdentityPrintWebIdentity</p>
+</blockquote>
+
+                    </div>
+                </div>
+            </li>
+                                                                                    <li data-thumb="/Spiro2021/images/0/0/4/3/e/0043ebf4e77a8bf2e746595eb1d7cfeb1a69ac26-image-3.jpg?g-df98479d">
+                <div class="panel-bg" style="
+                    background-image: url(/Spiro2021/images/5/e/2/e/a/5e2ea618488936cef901ef52e293c6fdeac4299e-image-3.jpg?g-df98479d);                    min-height: auto;
+                    height: auto;
+                    ">
+                    <div class="panel-padding " style="
+                        padding: 30%; 39%;
+                        ">
+                        
+<blockquote>
+<p><strong>Identity</strong>PrintWebIdentityPrintWebIdentity</p>
+</blockquote>
+                    </div>
+                </div>
+            </li>
+            </ul>
+    </div>
+
+
+
+";s:12:"content_meta";N;}

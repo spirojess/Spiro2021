@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/email/blueprints.yaml',
-    'modified' => 1611676800,
+    'modified' => 1611596606,
     'data' => [
         'name' => 'Email',
         'slug' => 'email',

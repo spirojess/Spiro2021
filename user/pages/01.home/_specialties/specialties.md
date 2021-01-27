@@ -3,41 +3,23 @@ title: 'Graphic Design in everything'
 published: true
 menu: Specialties
 class: fullwidth
-features:
-    -
-        icon: null
-        header: 'Sales Sheets'
-        text: 'Sales sheets that detail and promote your product or service.'
-        image: image.jpg
-    -
-        icon: null
-        header: 'Brochures and Catalogs'
-        text: 'Feature your products and services in detail with a brochure or catalog.'
-        image: image2.jpg
 recaptchacontact:
     enabled: false
-specialty:
-    -
-        icon: null
-        header: 'Sales Sheets'
-        text: 'Sales sheets that detail and promote your product or service.'
-        image: image.jpg
-    -
-        icon: null
-        header: 'Brochures and Catalogs'
-        text: 'Feature your products and services in detail with a brochure or catalog.'
-        image: image2.jpg
 specialties:
     -
         icon: null
         header: 'Sales Sheets'
-        text: 'Sales sheets that detail and promote your product or service.'
-        image: image.jpg
+        text: 'Sales sheets that detail and promote your product or services.'
+        image: sheets1.jpg
+        link: spirographics.com
+        linktext: 'sales flyers'
     -
         icon: null
         header: 'Brochures and Catalogs'
         text: 'Feature your products and services in detail with a brochure or catalog.'
-        image: image2.jpg
+        image: catalog.jpg
+        link: www.spirographics.com
+        linktext: 'more'
 ---
 
 ## Graphic Design is integrated in everything we do.

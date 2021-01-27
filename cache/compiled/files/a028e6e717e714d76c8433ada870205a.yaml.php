@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/Spiro2021/user/plugins/backup-manager/blueprints.yaml',
-    'modified' => 1611676800,
+    'modified' => 1566327050,
     'data' => [
         'name' => 'Backup Manager',
         'version' => '0.1.6',
