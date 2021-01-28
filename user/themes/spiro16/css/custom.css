@@ -1,9 +1,10 @@
 /* @override 
+	http://localhost:8888/spiro_d/user/themes/spiro16/css/custom.css */
+
+/* @override 
 	http://localhost:8888/spiro/user/themes/spiro16/css/custom.css?*
 	http://localhost:8888/spiro_d/user/themes/spiro16/css/custom.css
 	http://localhost:8888/Spiro2021/user/themes/spiro16/css/custom.css */
-
-
 
 
 
@@ -40,7 +41,9 @@
 		
 	.texture{
 		background-image: url(../images/textr_gray.png);
-	}	
+	}
+	
+	
 	section h2:first-of-type{
 		text-align: center;
 	}
@@ -407,26 +410,43 @@ section#portfolio.archives {
 
 .specialty-items {
 	display: flex;
-	align-items: stretch;
 	text-align: center;
 }
 .specialty-items .specialty {
 	padding: 11px;
+	flex-grow: 1;
 }
 
-#body div.modular-row.specialties div.specialty-items div.specialty div.specialty-content p {
-	padding-bottom: 122px;
-}
-
-div.modular-row.specialties {
+.modular-row.specialties {
 	padding: 0px;
 }
 
-#body div.modular-row.specialties > h4 {
+.specialty .specialty-content p {
+	margin-top: 6px;
+	margin-bottom: 6px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+#body .modular-row.specialties > h4 {
 	text-align: center;
 }
 
-section#body div.modular-row.specialties div.specialty-items div.specialty div.specialty-content {
-	padding: 20px;
-	background-color: #fcfcfc;
+#body .modular-row.specialties .specialty-items .specialty .specialty-content {
+	padding: 20px 20px 220px;
+	background-color: #f1f1f1;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position-y: bottom;
 }
+
+#body .modular-row.specialties.fullwidth {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+#body .modular-row.specialties.fullwidth h2, #body .modular-row.specialties.fullwidth h3 {
+	padding-right: 7rem;
+	padding-left: 7rem;
+}
+

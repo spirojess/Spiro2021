@@ -1,13 +1,13 @@
-<div class="modular-row specialties {{ page.header.class}}">
+<div class="modular-row specialties {{ page.header.class }}">
     {{ content }}
     <div class="specialty-items">
     {% for specialty in page.header.specialties %}
-           <div class="specialty" style="background-image: {{specialty.image}};">
+           <div class="specialty" >
             {% if specialty.icon %}
             <i class="fa fa-fw fa-{{ specialty.icon }}"></i>
             <div class="specialty-content icon-offset">
             {% else %}
-            <div class="specialty-content">
+            <div class="specialty-content" style="background-image: url(  user/pages/images/{{ specialty.image }} );">
             {% endif %}
             {% if specialty.header %}
             <h4>{{ specialty.header }}</h4>

@@ -1,5 +1,0 @@
----
-title: Print
-menu: Print
----
-
